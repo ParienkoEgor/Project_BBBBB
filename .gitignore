@@ -1,0 +1,23 @@
+Project Version 0:
+1. Создан файл index.html;
+2. В файл index.html были внесены данные;
+3. Файл index.html был добавлен в репозиторий;
+
+Project Version 1:
+1. Создан файл style.css;
+2. В файл style.css были внесены данные;
+3. Файл index.html был добавлен в репозиторий;
+
+Project Version 2.1:
+1. Был изменён файл index.html с целью подключения style.css;
+2. Изменения файла index.html были добавлены в репозиторий;
+
+Project Version V3:
+1. В файл style.css быди внесены исправления и добавлены новые данные (тег input, класс hidden, div было добавленно свойство height);
+2. Изменения файла index.html с целью подключения JavaScript;
+3. Создание файла JavaS.js;
+4. В файл JavaS.js были внесены данные;
+5. Изменения файлов style.css, index.html, JavaS.js;
+
+Project Version V3.1:
+1. Попытка внесения .gitignore. Не получилось;

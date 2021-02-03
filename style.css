@@ -1,0 +1,18 @@
+div{
+    width: 300px;
+    height: 50px;
+    padding: 30px;
+    background-color: black;
+}
+
+div > h1{
+    color: white;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+input{
+    margin-left: 30px;
+}
